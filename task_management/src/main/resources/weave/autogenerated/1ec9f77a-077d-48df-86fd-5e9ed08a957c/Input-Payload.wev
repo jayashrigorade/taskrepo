@@ -1,0 +1,10 @@
+%dw 2.0
+
+type auto_1ec9f77a_077d_48df_86fd_5e9ed08a957c_Input_Payload = {
+  description: String, 
+  ID?: String, 
+  priority: String, 
+  createdOn: String, 
+  _?: Any
+}
+
